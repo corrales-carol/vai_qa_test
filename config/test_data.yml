@@ -1,0 +1,8 @@
+user:
+  admin_email: 'placeholder'
+  admin_password: 'placeholder'
+  technician_email: 'placeholder'
+  technician_password: 'placeholder'
+  another_email: 'not_user@vaicar.com'
+  wrong_password: '123456'
+  environment_url: 'https://app.fieldnexus.com/login'
